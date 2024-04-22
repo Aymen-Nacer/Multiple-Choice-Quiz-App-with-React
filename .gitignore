@@ -1,0 +1,40 @@
+# Dependency directories
+/node_modules
+/.pnp
+.pnp.js
+
+# Optional npm cache directory
+.npm
+
+# ESLint
+/.eslintcache
+
+# Jest
+/coverage/
+
+# Output of webpack development build
+/build/
+
+# Output of webpack production build
+/dist/
+
+# Cache of babel-loader
+/.babel_cache/
+/.cache-loader/
+/.cache/
+
+# Dependency directories
+/.yarn/
+
+# yarn v2
+.yarn/*
+!.yarn/patches
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+.pnp.*
+.yarnrc.yml
+.yarnrc.yaml
+.yarnrc
+

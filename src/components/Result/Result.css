@@ -1,0 +1,23 @@
+#result {
+  min-width: 50vw;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  align-items: flex-start;
+  border-radius: 8px;
+  box-shadow: 1px 1px 8px 1px rgba(0, 0, 0, 0.6);
+  background-color: #d3ebe8;
+}
+
+#result #item {
+  background-color: #8ab8b2;
+  width: 100%;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+#result h1 {
+  text-align: center;
+}
